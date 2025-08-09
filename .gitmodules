@@ -1,3 +1,3 @@
 [submodule "gitignore"]
 	path = gitignore
-	url = https://github.com/toptal/gitignore.git
+	url = https://github.com/AlphaQuant/gitignore.git
